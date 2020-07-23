@@ -12,7 +12,3 @@
 
 И не забудьте зайти на наш сервер в дискорде
 Либо для помощи с чем то, или по вопросам насчёт бота
-
-[![Discord](https://discordapp.com/api/guilds/662635194884292611/widget.png)](https://discord.gg/wGKDCPp)
-![WildCat](https://discordbots.org/api/widget/status/708400942260682832.svg)
-![upvotes](https://discordbots.org/api/widget/upvotes/708400942260682832.svg)
