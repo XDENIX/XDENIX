@@ -17,6 +17,5 @@
 
 [![Discord](https://discordapp.com/api/guilds/706213781486960641/widget.png)](https://discord.gg/Eh9thsa)
 <a href="https://github.com/XDENIX">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrLivixx&show_icons=true&include_all_commits=true&theme=synthwave" alt="XDENIX's github stats"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XDENIX&show_icons=true&include_all_commits=true&theme=synthwave" alt="XDENIX's github stats"
 </a>
- 
