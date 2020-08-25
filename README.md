@@ -17,12 +17,7 @@
 
 [![Discord](https://discordapp.com/api/guilds/706213781486960641/widget.png)](https://discord.gg/Eh9thsa)
  <div style="width: 50%">
-        <a href="https://discord.gg/GG9Dkhg"><img src="https://invidget.switchblade.xyz/GG9Dkhg?theme=light" /></a>
-    </div>
-    
-зайди сюда если не сложно)
- <div style="width: 50%">
-        <a href="https://discord.gg/pe8bAHB"><img src="https://invidget.switchblade.xyz/pe8bAHB?theme=light" /></a>
+        <a href="https://discord.gg/Eh9thsa"><img src="https://invidget.switchblade.xyz/pe8bAHB?theme=light" /></a>
     </div>
 
 <a href="https://github.com/XDENIX">
