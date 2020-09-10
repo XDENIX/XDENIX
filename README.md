@@ -18,7 +18,6 @@
 <a href="https://open.spotify.com/user/jugqey62q0tsg3q0d975xml7y">
   <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/spotify.svg" />
 </a>
-<br>
 --
 
 + **Изучаемые языки:**
