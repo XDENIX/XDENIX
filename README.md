@@ -1,6 +1,4 @@
  + **Соц сети:**
-
-
 <a href="https://t.me/deni222222222222">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/telegram.svg" />
 </a>
@@ -13,13 +11,10 @@
   <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/vk.svg" />
 </a>
 
- 
-
 <a href="https://open.spotify.com/user/jugqey62q0tsg3q0d975xml7y">
   <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/spotify.svg" />
 </a>
---
-
+<br><br>
 + **Изучаемые языки:**
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
