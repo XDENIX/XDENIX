@@ -39,10 +39,7 @@ Sakura Bot - https://sakura-web.glitch.me/
 
 <a href="https://github.com/XDENIX">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XDENIX&show_icons=true&include_all_commits=true&theme=dark" alt="XDENIX's github stats" />
-</a>
-<a href="https://github.com/XDENIX">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XDENIX&layout=compact&theme=dark" />
-</a>
+ 
 <br><br>
 <a href="https://discord.gg/Eh9thsa">
   <img src="https://invidget.switchblade.xyz/Eh9thsa" />
