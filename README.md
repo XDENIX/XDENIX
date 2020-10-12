@@ -12,7 +12,7 @@
 
 Либо для помощи с чем то, или по вопросам насчёт бота
 
-Sakura Bot - https://sakura-web.glitch.me/
+Sakura Bot - https://sakurabot.ml
 
  
 + **Соц сети:**
