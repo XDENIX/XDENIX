@@ -6,25 +6,20 @@
 * Мой основный язык программирования, это **JavaScript**
 * У меня есть множество проектов, а также ботов для **Discord Community**
 
-+  **Чуть ниже ты можешь посмотреть информацию о моих проектах**
-
-* [Sakura](https://discord.com/oauth2/authorize?client_id=706164173763248159&permissions=8&scope=bot)
-
-Либо для помощи с чем то, или по вопросам насчёт бота
-
-Sakura Bot - https://sakurabot.ml
+ 
+ 
 
  
 + **Соц сети:**
-<a href="https://t.me/deni222222222222">
+<a href="https://t.me/kotik">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/telegram.svg" />
 </a>
 
-<a href="https://discord.gg/Eh9thsa">
+<a href="https://discord.gg/deC3HkM">
   <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/discord.svg" />
 </a>
 
-<a href="https://vk.com/deni333">
+<a href="https://vk.com/kotikbruh">
   <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/vk.svg" />
 </a>
 
@@ -41,7 +36,7 @@ Sakura Bot - https://sakurabot.ml
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XDENIX&show_icons=true&include_all_commits=true&theme=dark" alt="XDENIX's github stats" />
  
 <br><br>
-<a href="https://discord.gg/Eh9thsa">
-  <img src="https://invidget.switchblade.xyz/Eh9thsa" />
+<a href="https://discord.gg/deC3HkM">
+  <img src="https://invidget.switchblade.xyz/deC3HkM" />
 </a>
 <a href="https://github.com/XDENIX">
