@@ -34,9 +34,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XDENIX&show_icons=true&include_all_commits=true&theme=dark" alt="XDENIX's github stats" />
  
 <br><br>
-<a href="https://discord.gg/3gRQkAD">
-  <img src="https://invidget.switchblade.xyz/3gRQkAD" />
-</a>
+
 <a href="https://github.com/XDENIX">  
 <a href="https://discord.gg/3gRQkAD">
  </a>
