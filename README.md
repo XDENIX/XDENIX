@@ -28,13 +28,21 @@
 
 + **Изучаемые языки:**
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> 
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">   
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">   
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
 
 <a href="https://github.com/XDENIX">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XDENIX&show_icons=true&include_all_commits=true&theme=dark" alt="XDENIX's github stats" />
  
 <br><br>
-<a href="https://discord.gg/deC3HkM">
-  <img src="https://invidget.switchblade.xyz/deC3HkM" />
+<a href="https://discord.gg/3gRQkAD">
+  <img src="https://invidget.switchblade.xyz/3gRQkAD" />
 </a>
-<a href="https://github.com/XDENIX">
+<a href="https://github.com/XDENIX">  
+<a href="https://discord.gg/3gRQkAD">
+  <img src="http://invidget.switchblade.xyz/3gRQkAD" />
+</a>
