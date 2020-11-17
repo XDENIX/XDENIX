@@ -19,9 +19,7 @@
   <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/discord.svg" />
 </a>
 
-<a href="https://vk.com/kotikbruh">
-  <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/vk.svg" />
-</a>
+ 
 
  
 <br><br>
