@@ -19,7 +19,15 @@
   <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/discord.svg" />
 </a>
 
+ <a href="https://www.youtube.com/channel/UCMs714GwXljPz6foNny51Nw">
+  <img align="left" alt="YouTube" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/youtube.svg" />
+</a>
+
  
+
+<a href="https://vk.com/daniilnagorniy">
+  <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/vk.svg" />
+</a>
 
  
 <br><br>
