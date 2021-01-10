@@ -11,7 +11,7 @@
 
  
 + **Соц сети:**
-<a href="https://t.me/Kotik3366">
+<a href="https://t.me/kekkotik11">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/telegram.svg" />
 </a>
 
