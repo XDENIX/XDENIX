@@ -29,7 +29,16 @@
   <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/vk.svg" />
 </a>
 
+ <br>
+
+---
+
++ **Снизу ты можешь увидеть мои популярные проекты**
+- [Бот дискорда на языке python,База данных MongoDB](https://github.com/XDENIX/Pythonbot)
  
+
+---
+
 <br><br>
 
 + **Изучаемые языки:**
