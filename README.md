@@ -20,15 +20,13 @@
 <a href="https://vk.com/daniilnagorniy">
   <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/vk.svg" />
 </a>
-
  <br>
 ---
-
 + **Снизу ты можешь увидеть мои популярные проекты**
 - [Бот дискорда на языке python,База данных MongoDB](https://github.com/XDENIX/Pythonbot)
-
 ---
-<br><br>
+<br>
+---
 + **Изучаемые языки:**
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
@@ -37,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XDENIX&show_icons=true&include_all_commits=true&theme=dark" alt="Даниил Нагорный
 's github stats" />
  
-<br><br>
+<br>
 <a href="https://github.com/XDENIX">  
 <a href="https://discord.gg/3gRQkAD">
  </a>
