@@ -43,5 +43,5 @@
  
 <br>
 <a href="https://github.com/XDENIX">  
-<a href="https://discord.gg/3gRQkAD">
+<a href="https://discord.gg/3gRQkAD/">
  </a>
